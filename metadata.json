@@ -1,0 +1,7 @@
+{
+  "name": "Helium Browser",
+  "description": "The browser built around privacy, consent, and comfort. Features dynamic layout modes, native omnibox bangs, fingerprinting noise protection, uBlock Origin shield, sync vault, and de-googling controls.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
